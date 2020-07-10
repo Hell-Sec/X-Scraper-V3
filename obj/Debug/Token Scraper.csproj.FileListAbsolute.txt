@@ -1,0 +1,32 @@
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Token Scraper.exe.config
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Token Scraper.exe
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Token Scraper.pdb
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Antlr3.Runtime.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Microsoft.Scripting.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\System.Web.Optimization.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\WebGrease.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\obj\Debug\Token Scraper.csprojAssemblyReference.cache
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\obj\Debug\Token_Scraper.Properties.Resources.resources
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\obj\Debug\Token Scraper.csproj.GenerateResource.cache
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\obj\Debug\Token Scraper.csproj.CopyComplete
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\obj\Debug\Token Scraper.exe
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\obj\Debug\Token Scraper.pdb
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\obj\Debug\Token_Scraper.Home.resources
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\obj\Debug\Token_Scraper.TokenChecker.resources
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\System.Interactive.Async.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\System.Linq.Async.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\System.Interactive.Async.xml
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\System.Linq.Async.xml
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucif\source\repos\Token Scraper\Token Scraper\bin\Debug\System.Threading.Tasks.Extensions.xml
